@@ -59,19 +59,21 @@ As we can see from our data, we can see that Thomas High School was, and is stil
 
 
 #### Scores by school size
-    The scores by school size did not seem to be affected by the absence in the 9th grade scores as they seemed to have remained the same.
+    The scores by school size did not seem to be affected by the absence in the 9th grade scores as they seemed to have remained almost exactly the same.
 
 *Score by School Size Original
 
-![Score By Schoool Size](https://user-images.githubusercontent.com/98780937/156985555-ccefdcf9-f065-4d93-8694-083eb4b4e00b.png)
+![School Size Original](https://user-images.githubusercontent.com/98780937/156986903-99c68068-4821-4b1e-b683-1f542b69d5bb.png)
 
 
 *Score by School Size Modified
 
-![Score By School Size - Modified](https://user-images.githubusercontent.com/98780937/156985570-d3a38eed-4e42-4942-a87f-7df9fc02f726.png)
+![School Size - Modified](https://user-images.githubusercontent.com/98780937/156986876-6c73c7ec-f509-4b18-af4b-464c4c85db6e.png)
+
 
 
 #### Scores by school type
+        The scores by school type did not seem to make a great impact either as its change is less than one percent.
 
 *Scores by School Types Original
 
@@ -84,7 +86,7 @@ As we can see from our data, we can see that Thomas High School was, and is stil
 
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
 
-Four changes we were able to see in the original school district analysis vs. the removed 9th grade scores at Thomas High School was the 
+Four changes we were able to see in the original school district analysis vs. the removed 9th grade scores at Thomas High School was the slightest changes. There did not seem to have any significant changes that were found when comparing the two data sets. It seems as though the data did not change at all. We can see that the removal of the 9th grade math and reading scores did less than one percent affect on the overall scores, ranks, as well as the school types.
 
